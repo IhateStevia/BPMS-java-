@@ -16,7 +16,7 @@ ConnINFO.txt: Contains the information needed to connect to an SQL database
 
 3rd line: password ex: Q7ajvpweSa
 
-id.txt: Contains the id of the user (can be anything, but have to be the same id Client_user as in Client_device).
+id.txt: Contains the id of the user (can be anything, but have to be the same id in Client_user as in Client_device).
 
 Client_user/Client_device can be in seperate folders, but a set of ConnINFO.txt/id.txt is needed for each.
 
