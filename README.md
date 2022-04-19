@@ -3,7 +3,7 @@ Blood Pressure Monitor System (Java)
 
 Client_device generates a set of random data (emulating the readings of a bpm device) and uploads them to the database, with the id of  id.txt. (if the needed table is not present, will be created). 
 
-Client_device fetches readings uploaded to the database (only the ones with id, matching the id on id.txt) and interfaces them to the user, with the options to sort them, delete them or search for a certain reading.
+Client_user fetches readings uploaded to the database (only the ones with id, matching the id on id.txt) and interfaces them to the user, with the options to sort them, delete them or search for a certain reading.
 
 You can download the runable jars, from runable jars folder. 
 ! ConnINFO.txt and id.txt need to be present in the same folder as the runable files.
