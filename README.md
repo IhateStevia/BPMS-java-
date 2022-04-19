@@ -10,11 +10,11 @@ You can download the runable jars, from runable jars folder.
 
 ConnINFO.txt: Contains the information needed to connect to an SQL database
 
-1st line: database location ex: sql11.freesqldatabase.com:3306/sql11485186
+1st line: database location ex: sql11.freesqldatabase.com:3306/sql11486877
 
-2nd line: username ex: sql11485186
+2nd line: username ex: sql11486877
 
-3rd line: password ex: 2iZkzJjCnT
+3rd line: password ex: Q7ajvpweSa
 
 id.txt: Contains the id of the user (can be anything, but you needs to have the same id Client_user as in Client_device).
 
