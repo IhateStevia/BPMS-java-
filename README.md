@@ -2,7 +2,7 @@
 Blood Pressure Monitor System (Java) 
 
 You can download the runable jars, from runable jars folder. 
-!ConnINFO.txt and id.txt need to be present in the same folder as the runable files.
+! ConnINFO.txt and id.txt need to be present in the same folder as the runable files.
 
 ConnINFO.txt: Contains the information needed to connect to an SQL database
 1st line: database location ex: sql11.freesqldatabase.com:3306/sql11485186
